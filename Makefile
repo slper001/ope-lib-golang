@@ -1,8 +1,4 @@
-
-example: example.cpp lib/ope.a
-	g++ example.cpp lib/ope.a -std=c++11  -lntl -lgmp  -lcrypto -o example
-
-lib/ope.a:
+install:
 	make -C lib/
 
 clean:

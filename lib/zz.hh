@@ -35,3 +35,7 @@ ZZFromDecString(const std::string &s) {
     ss >> v;
     return v;
 }
+
+uint64_t uint64FromZZ(NTL::ZZ val);
+//to_ZZ func may not work for 64 bits
+NTL::ZZ ZZFromUint64(uint64_t val);
