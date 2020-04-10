@@ -35,7 +35,6 @@ go run main.go
 ```
 
 ```go
-num:0 cipherText=3198016286 plainText=0
 num:10 cipherText=49732388173 plainText=10
 num:20 cipherText=102598871581 plainText=20
 num:30 cipherText=149743672874 plainText=30
@@ -44,6 +43,8 @@ num:56 cipherText=245525400720 plainText=56
 num:78 cipherText=349751403748 plainText=78
 num:90 cipherText=408944270601 plainText=90
 num:138 cipherText=617561141893 plainText=138
+num:245 cipherText=1072964940705 plainText=245
+num:678 cipherText=2851591790460 plainText=678
 ```
 
 Enjoy it!
