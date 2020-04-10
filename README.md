@@ -35,7 +35,6 @@ for _, in := range input {
 ```
 
 ```go
-num:0 cipherText=3198016286 plainText=0
 num:10 cipherText=49732388173 plainText=10
 num:20 cipherText=102598871581 plainText=20
 num:30 cipherText=149743672874 plainText=30
